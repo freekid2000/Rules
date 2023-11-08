@@ -1,25 +1,25 @@
 payload:
   - DOMAIN-KEYWORD,supersonicads
+  - DOMAIN-KEYWORD,adsserving
+  - DOMAIN-KEYWORD,adsensor
   - DOMAIN-KEYWORD,adsage
-  - DOMAIN-KEYWORD,duomeng
-  - DOMAIN-KEYWORD,adsrvmedia
-  - DOMAIN-KEYWORD,appsflyer
-  - DOMAIN-KEYWORD,omgmta
+  - DOMAIN-KEYWORD,adsmogo
+  - DOMAIN-KEYWORD,dwtrack
   - DOMAIN-KEYWORD,pingfore
+  - DOMAIN-KEYWORD,admaster
+  - DOMAIN-KEYWORD,partnerad
+  - DOMAIN-KEYWORD,zjtoolbar
+  - DOMAIN-KEYWORD,adwords
+  - DOMAIN-KEYWORD,omniture
   - DOMAIN-KEYWORD,admarvel
-  - DOMAIN-KEYWORD,adsystem
   - DOMAIN-KEYWORD,openx
   - DOMAIN-KEYWORD,guanggao
-  - DOMAIN-KEYWORD,adsserving
-  - DOMAIN-KEYWORD,applovin
-  - DOMAIN-KEYWORD,adsmogo
-  - DOMAIN-KEYWORD,adwords
-  - DOMAIN-KEYWORD,wlmonitor
-  - DOMAIN-KEYWORD,zjtoolbar
-  - DOMAIN-KEYWORD,socdm
-  - DOMAIN-KEYWORD,admaster
-  - DOMAIN-KEYWORD,dwtrack
-  - DOMAIN-KEYWORD,omniture
-  - DOMAIN-KEYWORD,partnerad
-  - DOMAIN-KEYWORD,adsensor
+  - DOMAIN-KEYWORD,appsflyer
   - DOMAIN-KEYWORD,domob
+  - DOMAIN-KEYWORD,wlmonitor
+  - DOMAIN-KEYWORD,adsrvmedia
+  - DOMAIN-KEYWORD,applovin
+  - DOMAIN-KEYWORD,socdm
+  - DOMAIN-KEYWORD,adsystem
+  - DOMAIN-KEYWORD,omgmta
+  - DOMAIN-KEYWORD,duomeng
